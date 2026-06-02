@@ -1,0 +1,6 @@
+{
+  "name": "سوق اليمن الرقمي",
+  "description": "منصة إلكترونية متكاملة لـ سوق اليمن الرقمي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
